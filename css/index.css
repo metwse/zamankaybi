@@ -1,0 +1,20 @@
+* { font-family: monospace; color: white; font-size: inherit }
+
+h1 { font-size: 1.5em; text-align: center }
+body { display: flex; margin: 2em; background: linear-gradient(#0c0d1a 0%, #0F0F1F 100%); flex-direction: column; align-items: center }
+input, textarea { padding: .25em .5em; background: #1e203e; border: none; border-radius: .25em; resize: none }
+::placeholder { color: #AcAdAa40 }
+form { display: flex; width: min(600px, 80%); margin-top: .25em; flex-direction: column; flex-wrap: wrap; gap: .5em; font-size: 1.2em }
+form input[type="submit"] { width: fit-content; align-self: flex-end }
+
+ul { display: flex; width: min(800px, 100%); margin: 0; padding: 0; flex-direction: column-reverse; font-size: 1.2em; }
+li { margin: .5em 0; padding: .5em; background: #1e203e; list-style: none; border-radius: .25em }
+li .sender { font-size: .9em; text-decoration: underline; font-weight: bold; color: #ff0098; word-break: break-word }
+li .content { word-break: break-word }
+li .date { font-size: .75em; opacity: .5 }
+
+.loading { display: grid; place-items: center; position: absolute; inset: 0; background-color: #1e203e; font-size: 2em }
+
+@supports (overflow: overlay) { body { overflow: overlay } }
+::-webkit-scrollbar { width: 16px }
+::-webkit-scrollbar-thumb { background-color: #1e203e; border-radius: 8px; border: 4px solid transparent; background-clip: padding-box }
