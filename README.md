@@ -1,4 +1,4 @@
-# zamankaybi
+# zaman kaybı
 Yaklaşık iki saatte yapılmış bir mesajlaşma seysi
 
 ## sss
