@@ -5,5 +5,5 @@ Yaklaşık iki saatte yapılmış bir mesajlaşma şeysi
 **ödev bitti mi?**  
 Hayır, hatta yazılıda çıkacak sorular onun içinde.  
 
-**ee, neden yapmadın?**  
+**ee, neden ödevi yapmadın ve bunu yaptın?**  
 🤔
