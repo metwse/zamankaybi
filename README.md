@@ -1,5 +1,5 @@
 # zaman kaybı
-Yaklaşık iki saatte yapılmış bir mesajlaşma seysi
+Yaklaşık iki saatte yapılmış bir mesajlaşma şeysi
 
 ## sss
 **ödev bitti mi?**  
